@@ -1,5 +1,4 @@
 # Fomebot
-# Descrição
 
 <b>UFRGS</b> - Trabalho final da cadeira de <b>Linguagens Formais e Autômatos</b>, utilizando a biblioteca <b>NLTK</b>.
 O objetivo do chatbot, nomeado de <b>Fomebot</b>, é auxiliar o usuário a encontrar os <b>melhores restaurantes da cidade de Porto Alegre</b>.
