@@ -8,7 +8,7 @@ O objetivo do chatbot, nomeado de <b>Fomebot</b>, é auxiliar o usuário a encon
 <ul>
   <li>Instale a bibilioteca <b>NLTK</b></li>
   <li>Execute o ambiente <b>IDLE</b> do Python clicando em <b>Run</b> ou digitando <b>F5</b></li>
-<ul>
+</ul>
 
 # Instalação NLTK
 
