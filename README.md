@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/38113015/111561810-d5a0b500-8773-11eb-89d5-571b53f515cd.png" width="80"> 
+
 # Fomebot
 
 <b>UFRGS</b> - Trabalho final da cadeira de <b>Linguagens Formais e Autômatos</b>, utilizando a biblioteca <b>NLTK</b>.
