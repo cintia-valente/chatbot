@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/38113015/111561810-d5a0b500-8773-11eb-89d5-571b53f515cd.png" width="80"> 
+<img src="https://user-images.githubusercontent.com/38113015/111561810-d5a0b500-8773-11eb-89d5-571b53f515cd.png" width="90"> 
 
 # Fomebot
 
